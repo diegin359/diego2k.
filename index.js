@@ -3,7 +3,7 @@ const {
     MessageType,
     Presence,
     Mimetype,
-    Group SettingChange
+    GroupSettingChange
 } = require('@adiwajshing/baileys')
 const { color, bgcolor } = require('./lib/color')
 const { help } = require('./src/help')
